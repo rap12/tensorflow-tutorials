@@ -1,10 +1,10 @@
 # tensorflow-tutorials
 Tutorial materials to help you understand how to use TensorFlow. 
 
-Tutorials and sample code for Android Mobile Development
-
 ## Requirements
 - [TensorFlow](https://tensorflow.org/install) (Crafted for TensorFlow 1.2)
+- Python 3.5
+- Optional: Jupyter Notebook
 
 
 ## Slides
